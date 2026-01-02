@@ -989,7 +989,7 @@ export function ForexBookingForm() {
         <div className="p-2 bg-blue-50 rounded-lg">
           <Globe className="w-6 h-6 text-blue-600" />
         </div>
-        <h2 className="text-2xl md:text-3xl font-bold text-gray-900">Book Your Forex</h2>
+        <h2 className="text-2xl md:text-3xl font-bold text-gray-900">Prithvi Forex</h2>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
